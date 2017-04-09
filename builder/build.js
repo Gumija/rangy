@@ -403,7 +403,7 @@ var actions = [
     lint,
     minify,
     zip,
-    tarGz,
+    // tarGz,
     copyToLib,
     copyToRelease
 ];
